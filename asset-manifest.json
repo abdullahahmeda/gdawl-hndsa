@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gdawl-hndsa/static/css/main.b25fe704.chunk.css",
+    "main.js": "/gdawl-hndsa/static/js/main.9c035f0e.chunk.js",
+    "main.js.map": "/gdawl-hndsa/static/js/main.9c035f0e.chunk.js.map",
+    "runtime-main.js": "/gdawl-hndsa/static/js/runtime-main.a2d19676.js",
+    "runtime-main.js.map": "/gdawl-hndsa/static/js/runtime-main.a2d19676.js.map",
+    "static/js/2.09150f85.chunk.js": "/gdawl-hndsa/static/js/2.09150f85.chunk.js",
+    "static/js/2.09150f85.chunk.js.map": "/gdawl-hndsa/static/js/2.09150f85.chunk.js.map",
+    "index.html": "/gdawl-hndsa/index.html",
+    "precache-manifest.ea460ce4d73e5368dfdfedcd42e874b9.js": "/gdawl-hndsa/precache-manifest.ea460ce4d73e5368dfdfedcd42e874b9.js",
+    "service-worker.js": "/gdawl-hndsa/service-worker.js",
+    "static/css/main.b25fe704.chunk.css.map": "/gdawl-hndsa/static/css/main.b25fe704.chunk.css.map",
+    "static/js/2.09150f85.chunk.js.LICENSE.txt": "/gdawl-hndsa/static/js/2.09150f85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d19676.js",
+    "static/js/2.09150f85.chunk.js",
+    "static/css/main.b25fe704.chunk.css",
+    "static/js/main.9c035f0e.chunk.js"
+  ]
+}

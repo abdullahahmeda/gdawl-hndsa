@@ -1,0 +1,44 @@
+html, body {
+    background: #fff;
+}
+
+.table-wrapper {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.table {
+    max-width: 100%;
+    background: #fff;
+    padding: 20px;
+}
+
+.table, .table td, .table > thead > tr > th {
+    border: 2px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.table td, .table > thead > tr > th {
+    padding: 5px;
+}
+
+.table .no-padding {
+    padding: 0;
+}
+
+.table .no-padding td {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-right: none;
+    border-left: none;
+    height: 50px;
+}
+
+.table .no-padding table {
+    border-collapse: collapse;
+    width: 100%;
+}
